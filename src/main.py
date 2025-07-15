@@ -7,7 +7,7 @@ from .execution_engine import VenvExecutionEngine, ExecutionResult
 
 app = FastAPI(
     title="AI Python Code Interpreter",
-    description="自动生成和执行Python代码的API服务",
+    description="自动生成和执行Python代码的API服务 s",
     version="1.0.0"
 )
 
